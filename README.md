@@ -20,6 +20,8 @@ Plugins that I have made for [Obsidian.md](https://obsidian.md)
 | [Note Splitter](https://github.com/decaf-dev/obsidian-note-splitter)                          | [![Obsidian Downloads](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%22note-splitter%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)](https://obsidian.md/plugins?id=note-splitter)                         | ![GitHub stars](https://img.shields.io/github/stars/decaf-dev/obsidian-note-splitter?style=flat)             |
 | [Vault Automations](https://github.com/decaf-dev/obsidian-vault-automations)                      | Install through [BRAT](https://github.com/TfTHacker/obsidian42-brat)                    | ![GitHub stars](https://img.shields.io/github/stars/decaf-dev/obsidian-vault-automations?style=flat)             |
 | [Export Browser Tabs](https://github.com/decaf-dev/obsidian-export-browser-tabs)                      | Install through [BRAT](https://github.com/TfTHacker/obsidian42-brat)                    | ![GitHub stars](https://img.shields.io/github/stars/decaf-dev/obsidian-export-browser-tabs?style=flat)             |
+| [Property Pruner](https://github.com/decaf-dev/obsidian-property-pruner)                      | Install through [BRAT](https://github.com/TfTHacker/obsidian42-brat)                    | ![GitHub stars](https://img.shields.io/github/stars/decaf-dev/obsidian-property-pruner?style=flat)             |
+
 
 <!--
 **decaf-dev/decaf-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
