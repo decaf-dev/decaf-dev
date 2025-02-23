@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on the [Vault Explorer](https://github.com/decaf-dev/obsidian-vault-explorer) plugin for [Obsidian.md](https://obsidian.md)
+- 🔭 I’m currently working on the [DataLoom](https://github.com/decaf-dev/dataloom) plugin for [Obsidian.md](https://obsidian.md)
 - 📫 How to reach me: **@decaf_dev** on Discord
 
 ![DecafDev's Github Stats](https://github-readme-stats.vercel.app/api?username=decaf-dev&theme=nightowl&show_icons=true)
